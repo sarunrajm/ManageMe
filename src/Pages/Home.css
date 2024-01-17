@@ -1,0 +1,21 @@
+/* src/components/HomePage.css */
+
+.container1{
+    height: 90vh;
+}
+  
+  .left-section {
+    padding: 20px;
+    text-align: center;
+
+  }
+  
+  .right-section {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
