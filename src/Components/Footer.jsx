@@ -9,8 +9,9 @@ function Footer() {
 <div className="container">
   <div className="row">
     <div className="col-lg-5 col-xs-12 about-company">
-      <h2>Heading</h2>
-      <p className="pr-5 text-white-50">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac ante mollis quam tristique convallis </p>
+      <h2>ManageMe</h2>
+      <p className="pr-5 text-white-50">
+In conclusion, [Website Name] is your dedicated companion for seamless manga management. We've crafted a user-friendly space where you can effortlessly organize and keep track of the manga you love. Elevate your reading experience, stay updated on the latest releases, and connect with fellow manga enthusiasts. Join us in this exciting journey, and let [Website Name] be your go-to platform for a curated and personalized manga adventure.</p>
       <p><a href="#"><i className="fa fa-facebook-square mr-1"></i></a><a href="#"><i className="fa fa-linkedin-square"></i></a></p>
     </div>
     <div className="col-lg-3 col-xs-12 links">
