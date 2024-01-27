@@ -17,9 +17,9 @@ In conclusion, [Website Name] is your dedicated companion for seamless manga man
     <div className="col-lg-3 col-xs-12 links">
       <h4 className="mt-lg-0 mt-sm-3">Links</h4>
         <ul className="m-0 p-0">
-          <li>- <a href="#">Lorem ipsum</a></li>
-          <li>- <a href="#">Nam mauris velit</a></li>
-          <li>- <a href="#">Etiam vitae mauris</a></li>
+          <li>- <a href="#">Home</a></li>
+          <li>- <a href="#">About</a></li>
+          <li>- <a href="#">Contact us</a></li>
           <li>- <a href="#">Fusce scelerisque</a></li>
           <li>- <a href="#">Sed faucibus</a></li>
           <li>- <a href="#">Mauris efficitur nulla</a></li>
