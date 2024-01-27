@@ -21,14 +21,14 @@ function Mangacard() {
       </Card.Body>
     </Card>
 
-    <Modal show={show} onHide={handleClose}>
+    <Modal size='lg' show={show} onHide={handleClose}>
         <Modal.Header closeButton>
           <Modal.Title>Manga Details</Modal.Title>
         </Modal.Header>
         <Modal.Body>
             <Row>
-                <Col md={6}>
-                <img style={{height:'220px'}} className='img-fluid' src={MangaImage} alt="Manga Image" />
+                <Col md={4}>
+                <img style={{height:'220px',width:'170px'}} className='img-fluid' src={MangaImage} alt="Manga Image" />
                 </Col>
                 <Col md={6}>
                     <h2>Manga title</h2>
@@ -38,8 +38,11 @@ function Mangacard() {
                 </Col>
             </Row>
             <div className='mt-3'>
-                        <a href="">
+                        <a href="https://github.com/sarunrajm/ManageMe" target='_blank' className='btn'>
                         <i class="fa-brands fa-github fa-2x"></i>
+                        </a>
+                        <a href="https://mangareader.to/jujutsu-kaisen-168" target='_blank' className='btn'>
+                        <i class="fa-solid fa-link fa-2x"></i>
                         </a>
                     </div>
         </Modal.Body>

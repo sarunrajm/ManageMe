@@ -9,7 +9,7 @@
         transition: color .2s;
         &:hover{
           text-decoration:none;
-          color:#4180CB;
+          color:#000000;
           }
       }
     }  
