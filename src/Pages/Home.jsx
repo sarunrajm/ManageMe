@@ -41,13 +41,13 @@ function Home() {
            alt="Your Image" fluid />
       </Carousel.Item>
 
-      <Carousel.Item>
+      {/* <Carousel.Item>
         <Image text="Third slide" />
         <Image src="https://i.pinimg.com/564x/fc/d5/91/fcd5911cde68ddeb084b11e2ca8aa675.jpg"
           width={"300px"} height={"80px"}
           className='mb-3'
            alt="Your Image" fluid />
-      </Carousel.Item>
+      </Carousel.Item> */}
 
       <Carousel.Item>
         <Image text="Third slide" />
@@ -56,22 +56,6 @@ function Home() {
           className='mb-3'
            alt="Your Image" fluid />
       </Carousel.Item>
-
-      <Carousel.Item>
-        <Image text="Third slide" />
-        <Image src="https://i.pinimg.com/564x/c7/09/5e/c7095e905c14b70e098ad69d8228ee88.jpg"
-          width={"300px"} height={"80px"}
-          className='mb-3'
-           alt="Your Image" fluid />
-      </Carousel.Item>
-
-      <Carousel.Item>
-        <Image text="Third slide" />
-        <Image src="https://i.pinimg.com/564x/9c/2c/a4/9c2ca430fcf707116a2f009d7bba2ac3.jpg"
-          width={"300px"} height={"80px"}
-          className='mb-3'
-           alt="Your Image" fluid />
-      </Carousel.Item>  
 
     </Carousel>    
           <br />

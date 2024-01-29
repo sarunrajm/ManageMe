@@ -5,13 +5,13 @@ function Footer() {
   return (
    
 <>
-<div className="mt-5 pt-5 pb-5 footer w-100">
+<div className="mt-5 pt-5 pb-3 footer w-100">
 <div className="container">
   <div className="row">
     <div className="col-lg-5 col-xs-12 about-company">
       <h2>ManageMe</h2>
       <p className="pr-5 text-white-50">
-In conclusion, [Website Name] is your dedicated companion for seamless manga management. We've crafted a user-friendly space where you can effortlessly organize and keep track of the manga you love. Elevate your reading experience, stay updated on the latest releases, and connect with fellow manga enthusiasts. Join us in this exciting journey, and let [Website Name] be your go-to platform for a curated and personalized manga adventure.</p>
+In conclusion, ManageMe is your dedicated companion for seamless manga management. We've crafted a user-friendly space where you can effortlessly organize and keep track of the manga you love. Join us in this exciting journey, and let ManageMe be your go-to platform for a curated and personalized manga adventure.</p>
       <p><a href="#"><i className="fa fa-facebook-square mr-1"></i></a><a href="#"><i className="fa fa-linkedin-square"></i></a></p>
     </div>
     <div className="col-lg-3 col-xs-12 links">
@@ -32,7 +32,7 @@ In conclusion, [Website Name] is your dedicated companion for seamless manga man
       <p><i className="fa fa-envelope-o mr-3"></i>info@hsdf.com</p>
     </div>
   </div>
-  <div className="row mt-5">
+  <div className="row">
     <div className="col copyright">
       <p className=""><small className="text-white-50">© 2019. All Rights Reserved.</small></p>
     </div>
